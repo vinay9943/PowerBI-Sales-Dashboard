@@ -14,6 +14,6 @@ What is the total sales revenue and total quantity sold?
 <a href="https://github.com/vinay9943/Sales_dashboard_using_PowerBI/blob/main/Sales_dashhboard.pbix"> View Dashboard </a>
 # Process 
 # General Data Analysis
-1.  What is the total sales revenue and total quantity sold?
-• Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.
-• DAX: Create measures for Total Sales, Total Quantity, Total Transactions, and Average Sales.
+1.  What is the total sales revenue and total quantity sold?<br>
+• Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
+• DAX: Create measures for Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
