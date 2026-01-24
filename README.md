@@ -15,5 +15,14 @@ What is the total sales revenue and total quantity sold?
 # Process 
 # General Data Analysis
 1.  What is the total sales revenue and total quantity sold?<br>
-• Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
-• DAX: Create measures for Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
+•   Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
+•   DAX: Create measures for Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
+2.  Which city generates the highest sales and transactions?
+•   Visual: Map chart displaying city-wise sales and transactions.
+•   DAX: Create a measure to calculate total sales by city.
+3.  Which mobile model generates the highest revenue and quantity?
+•   Visual: Clustered bar chart showing sales and quantity by mobile model.
+•   DAX: Create measures for model-wise sales and quantity.
+3.  What is the monthly sales trend?
+•   Visual: Line chart showing total quantity by month.
+•   DAX: Create a time intelligence measure for monthly sales trend.
