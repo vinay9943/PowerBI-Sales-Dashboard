@@ -26,3 +26,9 @@ What is the total sales revenue and total quantity sold?
 3.  What is the monthly sales trend?<br>
 •   Visual: Line chart showing total quantity by month.<br>
 •   DAX: Create a time intelligence measure for monthly sales trend.<br>
+4. Which payment method is most preferred by customers?<br>
+•  Visual: Pie chart showing transaction distribution by payment method.<br>
+•  DAX: Create a measure to calculate transaction count by payment method.<br>
+5. How are customer ratings distributed?<br>
+•  Visual: Funnel chart showing customer ratings distribution.<br>
+•  DAX: Create a measure to calculate rating counts.<br>
