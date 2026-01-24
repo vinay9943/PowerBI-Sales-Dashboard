@@ -11,3 +11,4 @@ What is the total sales revenue and total quantity sold?
 4.  Which payment method is most preferred by customers?
 5.  How are customer ratings distributed?
 # Dashboard
+<a href="https://github.com/vinay9943/Sales_dashboard_using_PowerBI/blob/main/Sales_dashhboard.pbix"> View Dashboard </a>
