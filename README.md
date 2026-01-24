@@ -10,4 +10,4 @@ What is the total sales revenue and total quantity sold?
 3.  What is the monthly sales trend?
 4.  Which payment method is most preferred by customers?
 5.  How are customer ratings distributed?
-
+# Dashboard
