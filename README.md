@@ -12,3 +12,8 @@ What is the total sales revenue and total quantity sold?
 5.  How are customer ratings distributed?
 # Dashboard
 <a href="https://github.com/vinay9943/Sales_dashboard_using_PowerBI/blob/main/Sales_dashhboard.pbix"> View Dashboard </a>
+# Process 
+# General Data Analysis
+1.  What is the total sales revenue and total quantity sold?
+• Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.
+• DAX: Create measures for Total Sales, Total Quantity, Total Transactions, and Average Sales.
