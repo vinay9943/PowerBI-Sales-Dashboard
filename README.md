@@ -45,3 +45,6 @@ What is the total sales revenue and total quantity sold?
 •  Visual: Funnel chart showing customer rating distribution.<br>
 6. How does monthly sales performance compare across different periods?<br>
 •  Visual: Line chart comparing monthly sales trends.<br>
+# Next Steps
+1. Data Cleaning: Ensure missing and inconsistent sales data is handled properly.<br>
+2. Dashboard Enhancement: Add slicers for brand, model, city, payment method, and date to improve interactivity.<br>
