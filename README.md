@@ -32,3 +32,16 @@ What is the total sales revenue and total quantity sold?
 5. How are customer ratings distributed?<br>
 •  Visual: Funnel chart showing customer ratings distribution.<br>
 •  DAX: Create a measure to calculate rating counts.<br>
+# KPI Tracking and Comparisons
+1. What is the total sales revenue and total quantity sold?<br>
+•  Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
+2. Which city contributes the highest sales and transaction volume?<br>
+•  Visual: Map chart displaying city-wise sales and transactions.<br>
+3. Which mobile model generates the highest revenue and quantity?<br>
+•  Visual: Clustered bar chart showing sales and quantity by mobile model.<br>
+4. Which payment method has the highest transaction share?<br>
+•  Visual: Pie chart showing transaction distribution by payment method.<br>
+5. How do customer ratings compare across different sales levels?<br>
+•  Visual: Funnel chart showing customer rating distribution.<br>
+6. How does monthly sales performance compare across different periods?<br>
+•  Visual: Line chart comparing monthly sales trends.<br>
