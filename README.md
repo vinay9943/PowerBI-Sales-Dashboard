@@ -110,7 +110,7 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 <p align="center">
 
-<img src="images/Sales_Dashboard.png" width="900"/>
+![Sales Dashboard](images/Sales_Dashboard.png)
 
 </p>
 
