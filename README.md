@@ -1,50 +1,172 @@
-# Sales_dashboard_using_PowerBI
-# Project Objective
-To design an interactive Power BI dashboard that analyzes mobile sales performance across cities, time periods, payment methods, and product models, enabling stakeholders to monitor key KPIs, identify trends, and make data-driven business decisions efficiently.
-#  Dataset used
-<a href="https://github.com/vinay9943/Sales_dashboard_using_PowerBI/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data%20(1).xlsx"> Mobile Sales Dataset </a>
-# Quections (KPIs)
-What is the total sales revenue and total quantity sold?
-1.  Which city generates the highest sales?
-2.  Which mobile model has the highest sales?
-3.  What is the monthly sales trend?
-4.  Which payment method is most preferred by customers?
-5.  How are customer ratings distributed?
-# Dashboard
-<a href="https://github.com/vinay9943/Sales_dashboard_using_PowerBI/blob/main/Sales_dashhboard.pbix"> View Dashboard </a>
-# Process 
-# General Data Analysis
-1.  What is the total sales revenue and total quantity sold?<br>
-•   Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
-•   DAX: Create measures for Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
-2.  Which city generates the highest sales and transactions?<br>
-•   Visual: Map chart displaying city-wise sales and transactions.<br>
-•   DAX: Create a measure to calculate total sales by city.<br>
-3.  Which mobile model generates the highest revenue and quantity?<br>
-•   Visual: Clustered bar chart showing sales and quantity by mobile model.<br>
-•   DAX: Create measures for model-wise sales and quantity.<br>
-3.  What is the monthly sales trend?<br>
-•   Visual: Line chart showing total quantity by month.<br>
-•   DAX: Create a time intelligence measure for monthly sales trend.<br>
-4. Which payment method is most preferred by customers?<br>
-•  Visual: Pie chart showing transaction distribution by payment method.<br>
-•  DAX: Create a measure to calculate transaction count by payment method.<br>
-5. How are customer ratings distributed?<br>
-•  Visual: Funnel chart showing customer ratings distribution.<br>
-•  DAX: Create a measure to calculate rating counts.<br>
-# KPI Tracking and Comparisons
-1. What is the total sales revenue and total quantity sold?<br>
-•  Visual: KPI cards showing Total Sales, Total Quantity, Total Transactions, and Average Sales.<br>
-2. Which city contributes the highest sales and transaction volume?<br>
-•  Visual: Map chart displaying city-wise sales and transactions.<br>
-3. Which mobile model generates the highest revenue and quantity?<br>
-•  Visual: Clustered bar chart showing sales and quantity by mobile model.<br>
-4. Which payment method has the highest transaction share?<br>
-•  Visual: Pie chart showing transaction distribution by payment method.<br>
-5. How do customer ratings compare across different sales levels?<br>
-•  Visual: Funnel chart showing customer rating distribution.<br>
-6. How does monthly sales performance compare across different periods?<br>
-•  Visual: Line chart comparing monthly sales trends.<br>
-# Next Steps
-1. Data Cleaning: Ensure missing and inconsistent sales data is handled properly.<br>
-2. Dashboard Enhancement: Add slicers for brand, model, city, payment method, and date to improve interactivity.<br>
+# 📊 Mobile Sales Dashboard | Power BI
+
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Analytics-orange?style=for-the-badge)
+
+</p>
+
+---
+
+# 📌 Project Overview
+
+The **Mobile Sales Dashboard** is an interactive **Power BI** dashboard developed to analyze mobile sales performance across different brands, models, cities, payment methods, and customer ratings.
+
+The dashboard transforms raw sales data into meaningful business insights using **Power BI, Power Query, DAX, and Data Modeling**, enabling businesses to monitor KPIs, identify sales trends, and make informed decisions.
+
+---
+
+# 🎯 Business Objectives
+
+✅ Analyze overall sales performance
+
+✅ Compare sales across mobile brands
+
+✅ Monitor city-wise sales trends
+
+✅ Evaluate customer ratings
+
+✅ Analyze payment method preferences
+
+✅ Build an interactive business dashboard
+
+---
+
+# 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | KPI Measures & Calculations |
+| Data Modeling | Relationship Management |
+| Excel | Data Source |
+| Interactive Visuals | Business Insights |
+
+---
+
+# 📊 Dashboard KPIs
+
+| KPI | Description |
+|------|------------|
+| 💰 Total Sales | Overall Revenue |
+| 📦 Total Quantity Sold | Number of Products Sold |
+| 💵 Average Sales | Average Revenue |
+| ⭐ Customer Ratings | Satisfaction Analysis |
+| 📈 Transactions | Sales Performance |
+
+---
+
+# 📈 Dashboard Features
+
+📱 Brand-wise Sales Analysis
+
+📊 Model-wise Performance
+
+🌍 City-wise Sales Analysis
+
+💳 Payment Method Distribution
+
+⭐ Customer Rating Analysis
+
+📅 Monthly Sales Trend
+
+🎛 Interactive Filters & Slicers
+
+📌 KPI Cards
+
+---
+
+# 💡 Key Insights
+
+✔ Identified top-performing mobile brands based on total sales.
+
+✔ Compared sales performance across multiple cities.
+
+✔ Analyzed customer ratings to understand buying satisfaction.
+
+✔ Evaluated payment methods preferred by customers.
+
+✔ Monitored monthly sales trends to identify seasonal patterns.
+
+✔ Built an interactive dashboard for business decision-making.
+
+---
+
+# 🚀 Business Impact
+
+- Improved sales performance monitoring.
+- Simplified business reporting.
+- Enabled interactive sales analysis.
+- Supported data-driven decision-making.
+- Identified customer purchasing trends.
+
+---
+
+# 📷 Dashboard Preview
+
+<p align="center">
+
+<img src="images/Sales_Dashboard.png" width="900"/>
+
+</p>
+
+---
+
+# 📂 Repository Structure
+
+```text
+📁 PowerBI-Sales-Dashboard
+│
+├── 📄 README.md
+├── 📊 Sales_Dashboard.pbix
+├── 📄 Mobile Sales Data.xlsx
+│
+└── 📁 images
+      ├── 📄 README.md
+      └── 🖼️ Sales_Dashboard.png
+```
+
+---
+
+# ⭐ Skills Demonstrated
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Dashboard Design
+- KPI Reporting
+- Data Visualization
+- Business Intelligence
+
+---
+
+# 📌 Key Learnings
+
+- Built an interactive Power BI dashboard for sales analysis.
+- Applied Power Query for data cleaning and transformation.
+- Used DAX to create business KPIs and calculations.
+- Designed interactive visualizations for business reporting.
+- Converted raw sales data into actionable business insights.
+
+---
+
+## 👨‍💻 Author
+
+### **Vinay Siddharudh Thisake**
+
+**Data Analyst | Power BI | SQL | Python | Excel | Salesforce**
+
+📧 Connect with me on **LinkedIn** for collaboration and opportunities.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub!
